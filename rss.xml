@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Six-Key]]></title>
+        <description><![CDATA[Six-Key]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 21:54:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Six-Key are a small yet influential company who have been in the business of providing services to Landlords in Supported Housing for many years.Our principle area of expertise is the Housing Benefit regulatory framework and how it applies to Landlords supporting vulnerable people who have their own tenancies or licenses.</p>]]></description>
+            <link>undefinedeac6191f-2189-4e82-a8d1-80d4c1bfc1d8/index.html</link>
+            <guid isPermaLink="false">eac6191f-2189-4e82-a8d1-80d4c1bfc1d8</guid>
+            <pubDate>Thu, 28 Jan 2016 21:52:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
