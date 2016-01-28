@@ -1,0 +1,28 @@
+name: Six-Key
+favicon: null
+layout_spectrum: 0.0022503165528178215
+typography_spectrum: 0.052524000871926546
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.712337503908202
+  lightness: 0.3485431899316609
+  saturation: 0.09306076751090586
+  rhythmicContrast: 0.3650410783011466
+purpose: []
